@@ -1,10 +1,11 @@
+import Card from "./Components/Card"
 
 function App() {
   
 
   return (
     <>
-      Hello
+      <Card></Card>
     </>
   )
 }
